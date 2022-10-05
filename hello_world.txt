@@ -1,2 +1,3 @@
 test for staging.
 trying the git commit without -m
+practice git commit for future! :)
